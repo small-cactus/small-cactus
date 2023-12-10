@@ -1,7 +1,7 @@
 <h1 align="center">About Me 🌵</h1>
 
 <p align="center">
-  <img src="miles_logo.png" width="250" height="250" alt="MILES Logo">
+  <img src="image (1).png" width="250" height="250" alt="MILES Logo">
 </p>
 
 <h2>👨‍💻 Who I Am</h2>
@@ -16,7 +16,7 @@ Hello! I'm Anthony, a high school student and a developer with a fervor for AI a
 </ul>
 
 <p align="center">
-  <img src="image (1).png" width="350" height="350" alt="Small Cactus Profile Picture">
+  <img src="miles_logo.png" width="350" height="350" alt="Small Cactus Profile Picture">
 </p>
 
 <h2>💡 My Philosophy</h2>
