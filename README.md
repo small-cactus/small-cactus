@@ -1,5 +1,11 @@
 <h1 align="center">About Me 🌵</h1>
 
+<div align="center">
+  <h3>🔗 My GitHub Repositories</h3>
+  <a href="https://github.com/small-cactus/Jarvis-ChatGPT-VoiceAssistant">🎙️Jarvis-ChatGPT-VoiceAssistant</a> |
+  <a href="https://github.com/small-cactus/M.I.L.E.S">🧠 M.I.L.E.S</a>
+</div>
+</p>
 <p align="center">
   <img src="image (1).png" width="250" height="250" alt="MILES Logo">
 </p>
