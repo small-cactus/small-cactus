@@ -19,11 +19,11 @@ Hello! I'm Anthony, a high school student and a developer with a fervor for AI a
 
 <h2>🚀 My Projects</h2>
 <ul>
-<li><b>Jarvis-ChatGPT-VoiceAssistant:</b> An intuitive voice assistant that brings simplicity to complex interactions, powered by GPT-3.5/GPT-4, with features like Spotify integration and weather updates.</li>
-<li><b>M.I.L.E.S:</b> My current focus and most ambitious project to date, M.I.L.E.S is 60% complete and challenges me to learn a new programming language for a backend rewrite. It boasts real and well-functioning features like Spotify control and real-time weather updates. While it's a massive undertaking, the features are not just theoretical—they are fully operational and effective.</li>
-<li><b>MagicTerminal:</b> A groundbreaking command-line interface for MacOS, integrating GPT-4-Turbo through M.I.L.E.S for natural language processing, simplifying terminal tasks with AI command interpretation, multi-command processing, and broad functionality.
-</li>
+<li><b>Jarvis-ChatGPT-VoiceAssistant (No longer maintained):</b> Initially an ambitious project, Jarvis was designed to simplify complex interactions through voice commands. However, it's outdated and no longer maintained, reflecting early experimentation rather than current capabilities.</li>
+<li><b>M.I.L.E.S:</b> The pinnacle of my project development, M.I.L.E.S is a significant leap forward in AI processing. It's a cross-platform voice assistant that leverages GPT-4-Turbo for a wide array of functionalities including Spotify control, system volume adjustment, weather searches, and personalized interactions. M.I.L.E.S can adapt its prompt and model, store memories, and even engage in natural conversations. It's designed for both Mac and Windows.</li>
+<li><b>MagicTerminal:</b> A groundbreaking command-line interface for MacOS, integrating GPT-4-Turbo through M.I.L.E.S for natural language processing, simplifying terminal tasks with AI command interpretation, multi-command processing, and broad functionality.</li>
 </ul>
+
 
 
 <p align="center">
