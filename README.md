@@ -2,7 +2,6 @@
 
 <div align="center">
   <h3>🔗 My GitHub Repositories</h3>
-  <a href="https://github.com/small-cactus/Jarvis-ChatGPT-VoiceAssistant">🎙️Jarvis-ChatGPT-VoiceAssistant</a> |
   <a href="https://github.com/small-cactus/M.I.L.E.S">🧠 M.I.L.E.S</a> |
   <a href="https://github.com/small-cactus/MagicTerminal">✨ MagicTerminal</a> |
   <a href="https://github.com/small-cactus/handTrack">✋ handTrack
