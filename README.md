@@ -1,43 +1,52 @@
-<h1 align="center">About Me 🌵</h1>
-
-<div align="center">
-  <h3>🔗 My GitHub Repositories</h3>
-  <a href="https://github.com/small-cactus/M.I.L.E.S">🧠 M.I.L.E.S</a> |
-  <a href="https://github.com/small-cactus/MagicTerminal">✨ MagicTerminal</a> |
-  <a href="https://github.com/small-cactus/handTrack">✋ handTrack
-</div>
-
-</p>
-<p align="center">
-  <img src="image (1).png" width="250" height="250" alt="MILES Logo">
-</p>
-
-<h2>👨‍💻 Who I Am</h2>
-<p align="justify">
-Hello! I'm Anthony, a high school student and a developer with a fervor for AI and voice assistant technologies. I'm on a quest to make tech accessible and simple, driven by curiosity and the thrill of creation.
-</p>
-
-<h2>🚀 My Projects</h2>
-<ul>
-<li><b>Jarvis-ChatGPT-VoiceAssistant (No longer maintained):</b> Initially an ambitious project, Jarvis was designed to simplify complex interactions through voice commands. However, it's outdated and no longer maintained, reflecting early experimentation rather than current capabilities.</li>
-<li><b>M.I.L.E.S:</b> The pinnacle of my project development, M.I.L.E.S is a significant leap forward in AI processing. It's a cross-platform voice assistant that leverages GPT-4-Turbo for a wide array of functionalities including Spotify control, system volume adjustment, weather searches, and personalized interactions. M.I.L.E.S can adapt its prompt and model, store memories, and even engage in natural conversations. It's designed for both Mac and Windows.</li>
-<li><b>MagicTerminal:</b> A groundbreaking command-line interface for MacOS, integrating GPT-4-Turbo through M.I.L.E.S for natural language processing, simplifying terminal tasks with AI command interpretation, multi-command processing, and broad functionality.</li>
-<li><b>handTrack:</b> This innovative script allows controlling the mouse cursor using hand gestures, detected via webcam. Using OpenCV, MediaPipe, and PyAutoGUI, this project translates hand movements into cursor movements and clicks. Ideal for touch-free interactions.<br>
-
-</ul>
-
-
+<h1 align="center">Anthony Huang</h1>
 
 <p align="center">
-  <img src="miles_logo.png" width="350" height="350" alt="Small Cactus Profile Picture">
+  Building AI tools, mobile products, and data-heavy experiments.
 </p>
 
-<h2>💡 My Philosophy</h2>
-<p align="justify">
-I advocate for simplicity and universal accessibility. My projects aim to break down barriers, offering powerful, intuitive technology freely to all users.
+<p align="center">
+  <img src="./miles_logo.png" width="220" alt="Anthony Huang profile graphic" />
 </p>
 
-<h2>🤝 Connect with Me</h2>
-<p align="justify">
-Join me in exploring my projects, contributing, and sharing your insights. Your support and feedback fuel my ongoing journey of learning and innovation. Together, we can redefine the accessibility of technology.
-</p>
+## About
+
+I work across applied AI, native-feeling product interfaces, automation, and data systems.
+Most of my projects start from a concrete user workflow, then expand into the engineering needed to make that workflow fast, reliable, and easy to use.
+
+Recent work on this profile includes:
+
+- iOS-first consumer apps built with Expo and React Native
+- AI-assisted nutrition and productivity tools
+- market-data and trading research infrastructure
+- computer vision and interaction experiments
+- voice assistant and desktop automation projects
+
+## Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Fuel-Up](https://github.com/small-cactus/Fuel-Up) | iOS-first fuel discovery app with live station aggregation, trend analysis, and predictive fueling onboarding. | Expo, React Native, JavaScript |
+| [crypto-one](https://github.com/small-cactus/crypto-one) | Transformer-based crypto trading research stack for 15-minute SOL data, model evaluation, and live scoring experiments. | Python |
+| [MacroScan](https://github.com/small-cactus/MacroScan) | Mobile nutrition app for estimating calories and macros from meal photos. | Expo, React Native, JavaScript |
+| [attendify](https://github.com/small-cactus/attendify) | Attendance and member-management platform for clubs, schools, and organizations. | TypeScript, React |
+| [whiskersmco](https://github.com/small-cactus/whiskersmco) | Frontend product/site work focused on polished presentation and modern web UI. | TypeScript |
+| [M.I.L.E.S](https://github.com/small-cactus/M.I.L.E.S) | Cross-platform voice assistant with prompt adaptation, memory, system actions, and Spotify control. | Python |
+
+## More Public Repositories
+
+- [objectTrack](https://github.com/small-cactus/objectTrack): OpenCV-based object tracking and re-identification workflow.
+- [handTrack](https://github.com/small-cactus/handTrack): Hand-gesture mouse control with OpenCV, MediaPipe, and PyAutoGUI.
+- [Jarvis-ChatGPT-VoiceAssistant](https://github.com/small-cactus/Jarvis-ChatGPT-VoiceAssistant): Early voice assistant project that led into later assistant systems.
+- [MagicTerminal](https://github.com/small-cactus/MagicTerminal): Command-line assistant experiment for macOS workflows.
+
+## Focus Areas
+
+- Product engineering with strong UX and interaction detail
+- Applied machine learning and inference pipelines
+- Data validation, simulation, and experiment tooling
+- Systems that turn complex tasks into direct user-facing workflows
+
+## Notes
+
+This profile changes as projects are cleaned up, documented, and published.
+The repositories above are the best place to see current code, setup instructions, and project-specific architecture.
