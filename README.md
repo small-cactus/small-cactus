@@ -1,14 +1,16 @@
-<h1 align="center">Anthony Huang</h1>
+<h1 align="center">Anthony Hayward</h1>
 
 <p align="center">
   Building AI tools, mobile products, and data-heavy experiments.
 </p>
 
 <p align="center">
-  <img src="./miles_logo.png" width="220" alt="Anthony Huang profile graphic" />
+  <img src="./miles_logo.png" width="220" alt="Anthony Hayward profile graphic" />
 </p>
 
 ## About
+
+I'm Anthony Hayward, an 18-year-old high school graduate currently looking for internships.
 
 I work across applied AI, native-feeling product interfaces, automation, and data systems.
 Most of my projects start from a concrete user workflow, then expand into the engineering needed to make that workflow fast, reliable, and easy to use.
