@@ -22,11 +22,13 @@ Recent work on this profile includes:
 - market-data and trading research infrastructure
 - computer vision and interaction experiments
 - voice assistant and desktop automation projects
+- local-first memory search and visual recall interfaces
 
 ## Featured Projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [memorium](https://github.com/small-cactus/memorium) | Local-first visual memory assistant for searchable screen history, OCR, and voice recall. | Python, React, Tauri |
 | [Fuel-Up](https://github.com/small-cactus/Fuel-Up) | iOS-first fuel discovery app with live station aggregation, trend analysis, and predictive fueling onboarding. | Expo, React Native, JavaScript |
 | [crypto-one](https://github.com/small-cactus/crypto-one) | Transformer-based crypto trading research stack for 15-minute SOL data, model evaluation, and live scoring experiments. | Python |
 | [MacroScan](https://github.com/small-cactus/MacroScan) | Mobile nutrition app for estimating calories and macros from meal photos. | Expo, React Native, JavaScript |
